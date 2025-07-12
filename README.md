@@ -51,16 +51,8 @@ python Tetris.py
 ## 打包说明
 
 如需打包为可执行文件，可使用 PyInstaller：
-
 ```powershell
 pyinstaller Tetris.spec
 ```
 
-## 截图
 
-![主界面](img/Tetris.webp)
-![游戏结束](img/gameover.jpg)
-
----
-
-如有问题欢迎提 issue 或 PR！
